@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    position: relative;
+    min-height: 100vh;
+    overflow: hidden;
+    background-color: lightsalmon;
+  }
+  .header{
+    font-size: 35px;
+    background-color: khaki;
+    text-align: center;
+  }
+  .main{
+    
+    border: 2px solid red;
+  }
+  
+  .footer{
+   position: absolute;
+   /* margin-bottom: 0; */
+   text-align: center;
+   font-size: 30px;
+   bottom: 0;
+   background-color: khaki;
+   width: 100vw;
+  }
